@@ -17,3 +17,4 @@ with open(archivo2, "w") as f2:
     f2.write(f"Este es el archivo {archivo2}, creado el {ayer}\n")
 
 print(f"Archivos creados: {archivo1} y {archivo2}")
+print("es un nuevo comentario")
