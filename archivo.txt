@@ -1,0 +1,6 @@
+Línea nueva para el commit de prueba
+2 Línea nueva para el commit de prueba
+Cambios temporales no listos para commit
+Funcionalidad A
+Funcionalidad B
+Funcionalidad C
