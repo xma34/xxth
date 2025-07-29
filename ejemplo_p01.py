@@ -18,3 +18,4 @@ with open(archivo2, "w") as f2:
 
 print(f"Archivos creados: {archivo1} y {archivo2}")
 print("es un nuevo comentario")
+
