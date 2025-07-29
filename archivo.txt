@@ -4,3 +4,6 @@ Cambios temporales no listos para commit
 Funcionalidad A
 Funcionalidad B
 Funcionalidad C
+Funcionalidad A
+Funcionalidad B
+Mejora menor
